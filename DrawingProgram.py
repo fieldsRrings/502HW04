@@ -1,6 +1,7 @@
 from Shape import Shape, Circle, Square, Rectangle, Triangle
 from ShapeFactory import ShapeFactory
 
+# Initialize the class DrawingProgram
 class DrawingProgram:
     def __init__(self, shapes=None):
         self.shapes = shapes if shapes else []
