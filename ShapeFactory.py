@@ -1,5 +1,6 @@
 from Shape import Circle, Square, Rectangle, Triangle
 
+# Class that is responsible for creating the various shapes
 class ShapeFactory:
     @staticmethod
     def create_shape(shape_name, *args):
