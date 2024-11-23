@@ -14,5 +14,5 @@ UML Diagram
 Docstrings
 Readme
 
-No shortcomings to report. 
+We don't have any shortcomings to report. 
 
